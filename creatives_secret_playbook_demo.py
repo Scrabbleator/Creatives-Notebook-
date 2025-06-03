@@ -63,9 +63,5 @@ else:
     st.write("🌈 You’re working flexibly today—follow your creative flow.")
 '''
 
-# Save the script to a file
-script_path = "/mnt/data/creatives_secret_playbook_demo.py"
-with open(script_path, "w") as f:
-    f.write(script_content)
 
-script_path
+
